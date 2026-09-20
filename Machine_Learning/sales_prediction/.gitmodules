@@ -1,0 +1,3 @@
+[submodule "credit_card_fraud_detection"]
+	path = credit_card_fraud_detection
+	url = https://github.com/KaustubhaRam/credit_card_fraud.git
